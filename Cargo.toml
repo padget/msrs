@@ -1,0 +1,6 @@
+[package]
+name = "msrs"
+version = "0.1.0"
+authors = ["padget <padget.pro@gmail.com>"]
+
+[dependencies]
